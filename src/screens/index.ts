@@ -1,0 +1,11 @@
+export { default as About } from "./About";
+export { default as Account } from "./Account";
+export { default as Delete } from "./Delete";
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as More } from "./More";
+export { default as Onboarding } from "./Onboarding";
+export { default as Profile } from "./Profile";
+export { default as Register } from "./Register";
+export { default as Setting } from "./Setting";
+export { default as Transaction } from "./Transaction";

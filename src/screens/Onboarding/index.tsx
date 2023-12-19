@@ -16,7 +16,7 @@ const Onboarding = ({ navigation }: InitialNavigationProps<"Onboarding">) => {
       />
       <Text
         style={{
-          fontSize: spacing.xl,
+          fontSize: spacing.xl - 2,
           fontWeight: "900",
           textAlign: "center",
           margin: spacing.xs,

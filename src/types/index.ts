@@ -19,6 +19,7 @@ import {
     DrawerNavigator: undefined;
   };
   export type DrawerRoutes = {
+    TabNavigator:undefined;
     Setting: undefined;
     About: undefined;
     More: undefined;
